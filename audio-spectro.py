@@ -21,6 +21,6 @@ plt.axis('off')
 output_file = input("Enter the output file name and extension (e.g. spectrogram.png): ")
 
 # Save the spectrogram as an image file
-plt.savefig('spectrogram.png', dpi=300, bbox_inches='tight', pad_inches=0)
+plt.savefig('spectrogram.png', dpi=3000, bbox_inches='tight', pad_inches=0)
 # Show the spectrogram
 plt.show()

@@ -1,0 +1,133 @@
+<svg width="4000" height="2400" viewBox="0 0 4000 2400" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Define X-axis and Y-axis -->
+  <g id="x-axis">
+    <line x1="84" y1="2100" x2="984" y2="2100" stroke="black" stroke-width="2"/>
+    <!-- Draw tick marks and labels for X-axis -->
+    <text x="84" y="2120">0</text>
+    <text x="384" y="2120">10</text>
+    <text x="684" y="2120">20</text>
+    <text x="985" y="2120">30</text>
+    <text x="1285" y="2120">40</text>
+    <text x="1585" y="2120">50</text>
+    <text x="1885" y="2120">60</text>
+    <text x="2186" y="2120">70</text>
+    <text x="2486" y="2120">80</text>
+    <text x="2786" y="2120">90</text>
+    <line x1="84" y1="2110" x2="84" y2="2100" stroke="black" stroke-width="2"/>
+    <line x1="384" y1="2110" x2="384" y2="2100" stroke="black" stroke-width="2"/>
+    <line x1="684" y1="2110" x2="684" y2="2100" stroke="black" stroke-width="2"/>
+    <line x1="985" y1="2110" x2="985" y2="2100" stroke="black" stroke-width="2"/>
+    <line x1="1285" y1="2110" x2="1285" y2="2100" stroke="black" stroke-width="2"/>
+    <line x1="1585" y1="2110" x2="1585" y2="2100" stroke="black" stroke-width="2"/>
+    <line x1="1885" y1="2110" x2="1885" y2="2100" stroke="black" stroke-width="2"/>
+    <line x1="2186" y1="2110" x2="2186" y2="2100" stroke="black" stroke-width="2"/>
+    <line x1="2486" y1="2110" x2="2486" y2="2100" stroke="black" stroke-width="2"/>
+    <line x1="2786" y1="2110" x2="2786" y2="2100" stroke="black" stroke-width="2"/>
+  </g>
+
+  <g id="y-axis">
+    <line x1="84" y1="2100" x2="84" y2="50" stroke="black" stroke-width="2"/>
+    <!-- Draw tick marks and labels for Y-axis -->
+    <text x="10" y="2100">0</text>
+    <text x="10" y="2058">1000</text>
+    <text x="10" y="2016">2000</text>
+    <text x="10" y="1974">3000</text>
+    <text x="10" y="1932">4000</text>
+    <text x="10" y="1890">5000</text>
+    <text x="10" y="1848">6000</text>
+    <text x="10" y="1806">7000</text>
+    <text x="10" y="1764">8000</text>
+    <text x="10" y="1722">9000</text>
+    <text x="10" y="1680">10000</text>
+    <text x="10" y="1638">11000</text>
+    <text x="10" y="1596">12000</text>
+    <text x="10" y="1554">13000</text>
+    <text x="10" y="1512">14000</text>
+    <text x="10" y="1470">15000</text>
+    <text x="10" y="1428">16000</text>
+    <text x="10" y="1386">17000</text>
+    <text x="10" y="1344">18000</text>
+    <text x="10" y="1302">19000</text>
+    <text x="10" y="1260">20000</text>
+    <text x="10" y="1218">21000</text>
+    <text x="10" y="1176">22000</text>
+    <text x="10" y="1134">23000</text>
+    <text x="10" y="1092">24000</text>
+    <text x="10" y="1050" style="fill:red;">23000</text>
+    <text x="10" y="1008" style="fill:red;">22000</text>
+    <text x="10" y="966" style="fill:red;">21000</text>
+    <text x="10" y="924" style="fill:red;">20000</text>
+    <text x="10" y="882" style="fill:red;">19000</text>
+    <text x="10" y="840" style="fill:red;">18000</text>
+    <text x="10" y="798" style="fill:red;">17000</text>
+    <text x="10" y="756" style="fill:red;">16000</text>
+    <text x="10" y="714" style="fill:red;">15000</text>
+    <text x="10" y="672" style="fill:red;">14000</text>
+    <text x="10" y="630" style="fill:red;">13000</text>
+    <text x="10" y="588" style="fill:red;">12000</text>
+    <text x="10" y="546" style="fill:red;">11000</text>
+    <text x="10" y="504" style="fill:red;">10000</text>
+    <text x="10" y="462" style="fill:red;">9000</text>
+    <text x="10" y="420" style="fill:red;">8000</text>
+    <text x="10" y="378" style="fill:red;">7000</text>
+    <text x="10" y="336" style="fill:red;">6000</text>
+    <text x="10" y="294" style="fill:red;">5000</text>
+    <text x="10" y="252" style="fill:red;">4000</text>
+    <text x="10" y="210" style="fill:red;">3000</text>
+    <text x="10" y="168" style="fill:red;">2000</text>
+    <text x="10" y="126" style="fill:red;">1000</text>
+    <text x="10" y="84" style="fill:red;">0</text>
+    <line x1="84" y1="2100" x2="70" y2="2100" stroke="black" stroke-width="2"/>
+    <line x1="84" y1="2058" x2="70" y2="2058" stroke="black" stroke-width="2"/>
+    <line x1="84" y1="2016" x2="70" y2="2016" stroke="black" stroke-width="2"/>
+    <line x1="84" y1="1974" x2="70" y2="1974" stroke="black" stroke-width="2"/>
+    <line x1="84" y1="1932" x2="70" y2="1932" stroke="black" stroke-width="2"/>
+    <line x1="84" y1="1890" x2="70" y2="1890" stroke="black" stroke-width="2"/>
+    <line x1="84" y1="1848" x2="70" y2="1848" stroke="black" stroke-width="2"/>
+    <line x1="84" y1="1806" x2="70" y2="1806" stroke="black" stroke-width="2"/>
+    <line x1="84" y1="1764" x2="70" y2="1764" stroke="black" stroke-width="2"/>
+    <line x1="84" y1="1722" x2="70" y2="1722" stroke="black" stroke-width="2"/>
+    <line x1="84" y1="1680" x2="70" y2="1680" stroke="black" stroke-width="2"/>
+    <line x1="84" y1="1638" x2="70" y2="1638" stroke="black" stroke-width="2"/>
+    <line x1="84" y1="1596" x2="70" y2="1596" stroke="black" stroke-width="2"/>
+    <line x1="84" y1="1554" x2="70" y2="1554" stroke="black" stroke-width="2"/>
+    <line x1="84" y1="1512" x2="70" y2="1512" stroke="black" stroke-width="2"/>
+    <line x1="84" y1="1470" x2="70" y2="1470" stroke="black" stroke-width="2"/>
+    <line x1="84" y1="1428" x2="70" y2="1428" stroke="black" stroke-width="2"/>
+    <line x1="84" y1="1386" x2="70" y2="1386" stroke="black" stroke-width="2"/>
+    <line x1="84" y1="1344" x2="70" y2="1344" stroke="black" stroke-width="2"/>
+    <line x1="84" y1="1302" x2="70" y2="1302" stroke="black" stroke-width="2"/>
+    <line x1="84" y1="1260" x2="70" y2="1260" stroke="black" stroke-width="2"/>
+    <line x1="84" y1="1218" x2="70" y2="1218" stroke="black" stroke-width="2"/>
+    <line x1="84" y1="1176" x2="70" y2="1176" stroke="black" stroke-width="2"/>
+    <line x1="84" y1="1134" x2="70" y2="1134" stroke="black" stroke-width="2"/>
+    <line x1="84" y1="1092" x2="70" y2="1092" stroke="black" stroke-width="2"/>
+    <line x1="84" y1="1050" x2="70" y2="1050" stroke="black" stroke-width="2"/>
+    <line x1="84" y1="1008" x2="70" y2="1008" stroke="black" stroke-width="2"/>
+    <line x1="84" y1="966" x2="70" y2="966" stroke="black" stroke-width="2"/>
+    <line x1="84" y1="924" x2="70" y2="924" stroke="black" stroke-width="2"/>
+    <line x1="84" y1="882" x2="70" y2="882" stroke="black" stroke-width="2"/>
+    <line x1="84" y1="840" x2="70" y2="840" stroke="black" stroke-width="2"/>
+    <line x1="84" y1="798" x2="70" y2="798" stroke="black" stroke-width="2"/>
+    <line x1="84" y1="756" x2="70" y2="756" stroke="black" stroke-width="2"/>
+    <line x1="84" y1="714" x2="70" y2="714" stroke="black" stroke-width="2"/>
+    <line x1="84" y1="672" x2="70" y2="672" stroke="black" stroke-width="2"/>
+    <line x1="84" y1="630" x2="70" y2="630" stroke="black" stroke-width="2"/>
+    <line x1="84" y1="588" x2="70" y2="588" stroke="black" stroke-width="2"/>
+    <line x1="84" y1="546" x2="70" y2="546" stroke="black" stroke-width="2"/>
+    <line x1="84" y1="504" x2="70" y2="504" stroke="black" stroke-width="2"/>
+    <line x1="84" y1="462" x2="70" y2="462" stroke="black" stroke-width="2"/>
+    <line x1="84" y1="420" x2="70" y2="420" stroke="black" stroke-width="2"/>
+    <line x1="84" y1="378" x2="70" y2="378" stroke="black" stroke-width="2"/>
+    <line x1="84" y1="336" x2="70" y2="336" stroke="black" stroke-width="2"/>
+    <line x1="84" y1="294" x2="70" y2="294" stroke="black" stroke-width="2"/>
+    <line x1="84" y1="252" x2="70" y2="252" stroke="black" stroke-width="2"/>
+    <line x1="84" y1="210" x2="70" y2="210" stroke="black" stroke-width="2"/>
+    <line x1="84" y1="168" x2="70" y2="168" stroke="black" stroke-width="2"/>
+    <line x1="84" y1="126" x2="70" y2="126" stroke="black" stroke-width="2"/>
+    <line x1="84" y1="84" x2="70" y2="84" stroke="black" stroke-width="2"/>
+  </g>
+
+
+</svg>
